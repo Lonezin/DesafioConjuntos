@@ -1,0 +1,14 @@
+C:\Users\lonez\Desktop\Code\Conjuntos\bin\Debug\net7.0\Conjuntos.exe
+C:\Users\lonez\Desktop\Code\Conjuntos\bin\Debug\net7.0\Conjuntos.deps.json
+C:\Users\lonez\Desktop\Code\Conjuntos\bin\Debug\net7.0\Conjuntos.runtimeconfig.json
+C:\Users\lonez\Desktop\Code\Conjuntos\bin\Debug\net7.0\Conjuntos.dll
+C:\Users\lonez\Desktop\Code\Conjuntos\bin\Debug\net7.0\Conjuntos.pdb
+C:\Users\lonez\Desktop\Code\Conjuntos\obj\Debug\net7.0\Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonez\Desktop\Code\Conjuntos\obj\Debug\net7.0\Conjuntos.AssemblyInfoInputs.cache
+C:\Users\lonez\Desktop\Code\Conjuntos\obj\Debug\net7.0\Conjuntos.AssemblyInfo.cs
+C:\Users\lonez\Desktop\Code\Conjuntos\obj\Debug\net7.0\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\lonez\Desktop\Code\Conjuntos\obj\Debug\net7.0\Conjuntos.dll
+C:\Users\lonez\Desktop\Code\Conjuntos\obj\Debug\net7.0\refint\Conjuntos.dll
+C:\Users\lonez\Desktop\Code\Conjuntos\obj\Debug\net7.0\Conjuntos.pdb
+C:\Users\lonez\Desktop\Code\Conjuntos\obj\Debug\net7.0\Conjuntos.genruntimeconfig.cache
+C:\Users\lonez\Desktop\Code\Conjuntos\obj\Debug\net7.0\ref\Conjuntos.dll
